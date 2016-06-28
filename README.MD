@@ -14,6 +14,11 @@ Init plugin by one command
 
 Where *.controller* some your jQuery selector
 
+Make controller
+For example:
+
+`<button class="controller" data-selfclass="changed">Click click to add me class .changed</button>`
+
 ### You can:
 
 1. Changed class of current-element
@@ -30,6 +35,12 @@ But you can change this two ways:
 
 1. When plug-in init
 2. In data-attributes for current DOM-element
+
+#### Examples:
+
+`$(.controller).fastmark({self: false, selfreplace: 'It works!'});`
+
+`<span class="controller" data-self="false" data-selfreplace="It works!">Click me</span>`
 
 **Important:** data-attributes has the biggest priority
 
