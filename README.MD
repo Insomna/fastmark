@@ -38,7 +38,7 @@ But you can change this two ways:
 
 #### Examples:
 
-`$(.controller).fastmark({self: false, selfreplace: 'It works!'});`
+`$('.controller').fastmark({self: false, selfreplace: 'It works!'});`
 
 `<span class="controller" data-self="false" data-selfreplace="It works!">Click me</span>`
 
