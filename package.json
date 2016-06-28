@@ -1,0 +1,19 @@
+{
+  "name": "fastmark",
+  "version": "1.0.0",
+  "description": "jQuery plug-in for fast markup without js coding simple things",
+  "main": "fastmark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jQuery"
+  ],
+  "author": "Yurii Shuvalov",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.5.4"
+  }
+}

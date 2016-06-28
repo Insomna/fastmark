@@ -1,0 +1,23 @@
+{
+  "name": "fastmark",
+  "description": "jQuery plug-in for fast markup without js coding simple things",
+  "main": "fastmark.js",
+  "authors": [
+    "Yurii Shuvalov"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "jQuery"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jQuery": "^3.0.0"
+  }
+}
