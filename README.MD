@@ -45,9 +45,9 @@ But you can change this two ways:
 **Important:** data-attributes has the biggest priority
 
 ### Plugin props
-1. *sefl*: **boolean** //Set *false* if you don't need to change current-element class
-2. *selfclass*: **string** //Set class what you want to adding to current-element, without dot. It's *active* by default
-3. *selfreplace*: **string** //Set content what you want to changed into current-element when it active
-4. *controlled*: **string** //Set selector of element what you want to changed when current-element active. Should write full selector like *#myblock*, *.myblock* etc.
-5. *controlledclass*: **string** //Set class what you want to adding to controlled-element, without dot. It's *open* by default
-6. *preventdefault*: **boolean** //Set *false* if you don't need reset default current-element behavior
+1. *sefl*: **boolean** // Set *false* if you don't need to change current-element class
+2. *selfclass*: **string** // Set class what you want to adding to current-element, without dot. It's *active* by default
+3. *selfreplace*: **string** // Set content what you want to changed into current-element when it active
+4. *controlled*: **string** // Set selector of element what you want to changed when current-element active. Should write full selector like *#myblock*, *.myblock* etc.
+5. *controlledclass*: **string** // Set class what you want to adding to controlled-element, without dot. It's *open* by default
+6. *preventdefault*: **boolean** // Set *false* if you don't need reset default current-element behavior
