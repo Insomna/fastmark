@@ -34,10 +34,10 @@ The code is distributed under the MIT license */
           $(cData.controlled).addClass(cData.controlledclass);
 
       //If need change self HTML
-      if(cData.selfreplaced){
-        var _selfreplaced = $(this).html();
-        $(this).html(cData.selfreplaced);
-        cData.selfreplaced = _selfreplaced;
+      if(cData.selfreplace){
+        var _selfreplace = $(this).html();
+        $(this).html(cData.selfreplace);
+        cData.selfreplace = _selfreplace;
       }
 
       //Reset default behavior 
