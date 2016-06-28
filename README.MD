@@ -17,7 +17,7 @@ Where *.controller* some your jQuery selector
 Make controller  
 For example:
 
-`<button class="controller" data-selfclass="changed">Click click to add me class .changed</button>`
+`<button class="controller" data-selfclass="changed">Click to add me class .changed</button>`
 
 ### You can:
 
