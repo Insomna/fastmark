@@ -1,7 +1,7 @@
 /* © Yurii Shuvalov 2016. https://github.com/Insomna
 The code is distributed under the MIT license */
 (function($){
-  $.fn.fastMark = function(options){
+  $.fn.fastmark = function(options){
     //Set default props
     var settings = $.extend({
           self            : true,
